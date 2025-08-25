@@ -1,0 +1,36 @@
+---
+title: "HS_DisEco_Fall2025"
+author: "Hunter Sheffield"
+format: html
+editor: visual
+---
+
+## 8/29/2025
+
+**Integrating code and text:**
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+
+```
+
+**Inserting Images:**
+
+The image below is the epidemiological triad. This model is used to understand the complexity of infectious diseases. Rather than just explaining a disease as being the cause of a pathogen on the host, it involves the environment as a factor as well. Showing how the three factors (host, pathogen, and environment) interact to cause disease.
+
+![](images/clipboard-4098850719.png)
+
+![]()
