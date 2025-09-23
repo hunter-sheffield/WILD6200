@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## 8/29/2025
+## 8/29/2025-Worksheet #1
 
 **Integrating code and text:**
 
@@ -34,3 +34,31 @@ The image below is the epidemiological triad. This model is used to understand t
 ![](images/clipboard-4098850719.png)
 
 ![]()
+
+<hr>
+
+## 9/22/2025-Worksheet #2 
+
+**Sample size for disease detection:**
+
+![](images/clipboard-1758138076.png)
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+Answer 1) The sample size necessary to detect disease at or above 5% prevalence in a herd of 5000 deer is to sample from 59 deer.
+
+2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+a\) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+b\) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+Answer 2)
+
+A\) To be 95% confident in detecting disease being 1% prevalent in a large population you would need to sample 299 animals within the overall population. This is for populations such as in the wild. If you have a better estimate of the total population size you would be able to determine a more clear sample size to test. For example if you wanted to be 95% confident the disease is prevalent at 1% in a population around 10000, you would need to sample 298 animals.
+
+B\) To be 99% confident in detecting disease being 2% prevalent in a large population you would need to sample 229 animals within the overall population. This is for populations such as in the wild. If you have a better estimate of the total population size you would be able to determine a more clear sample size to test. For example if you wanted to be 99% confident the disease is prevalent at 2% in a population around 5000, you would need to sample 224 animals.
+
+3\) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+
+Answer 3) Using the rule of 3's you can be 95% confident that the prevalence of exposure to EHD in the facility is \<1%
