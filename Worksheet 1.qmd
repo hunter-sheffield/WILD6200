@@ -122,3 +122,39 @@ Answer d):
 -   6/15: 0
 
 -   6/16: 0
+
+<hr>
+
+## 10/17/2025-Lab Report #1
+
+**Tick Identification Lab**
+
+Tick identification follows the flow of life stage, sex, genus and then species. To start identification of the life stage (larva, nymph, or adult) you count the number of legs. Larvae have six legs, while nymphs and adults have eight. Sex is then determined by distinguishing the scutum, the back plate of ticks. Males have a full scutum covering the whole dorsal side (conscutum) while females have a smaller scutum (alloscutum). The alloscutum of females is smaller, so that it can expand while feeding. So, if you find a dog on a dog with a large expanded back it is either a female or nymph. Genus identification of ticks relies on the position of the anal groove. This groove in *Ixodes* is located in front of the anal opening, while most other ticks such as *Dermacentor* and *Amblyomma* have anal grooves that are behind the anus. Typically to determine species further, you would use a dichotomous key. However, the SAM method–scutum, anal groove, and mouthparts-provides a quick guide for reference. Longer mouthparts indicate species of *Amblyomma* species. While shorter mouthparts suggest the species will be *Dermacentor* or *Rhipicephalus.* Accurate tick identification is vital for public health. Ticks are the number one vectors for a variety of zoonotic diseases, such as Lyme disease and Rocky Mountain spotted fever. Correctly identifying tick species aids public health in providing information to have vector control strategies in place and be better prepared to treat patients with tick borne infections.
+
+<hr>
+
+## 10/17/2025-Midterm Revisions 
+
+(4C): The R~0~ for measles is estimated at 15 and 17 for rotavirus. Calculate beta for both diseases. {-3 pts}
+
+Measles: γ=1/8...β=R~0~ \* γ...15 \* 0.125= [1.875 is the transmission rate]{.underline}
+
+Rotavirus: γ=1/14...β=R~0~ \* γ...17 \* 0.07= [1.19 is the transmission rate]{.underline}
+
+(4D): Calculate Reff for a measles outbreak in a population with 80% measles vaccination coverage. {-3}
+
+Reff=R~0~ \* S/N....S/N=1-0.8=0.2....15(0.2)=[3 if the Reff]{.underline}
+
+![](images/clipboard-4020143711.png)
+
+(10A): Which year has the highest incidence of turtle fibroma? Write the unit for incidence. (-3)
+
+2015: 4/133=3%; 2016:5/123=4.1%; 2017:8/108=7.4%; 2018:4/140=2.9%; 2019:2/132=1.5%
+
+[2017 had the highest incidence of turtle fibroma; the units are per turtle-years]{.underline}
+
+(10B): When is the prevalence lowest? When is the prevalence highest? Write the unit for prevalence if applicable. (-2)
+
+2015: 4/133=0.03; 2016:7/125=0.056; 2017:12/112=0.107; 2018:9/145=0.06; 2019:6/136=0.04
+
+[2015 had the lowest prevalence and 2017 had the highest percent of population affected.]{.underline}
