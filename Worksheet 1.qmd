@@ -133,7 +133,7 @@ Tick identification follows the flow of life stage, sex, genus and then species.
 
 <hr>
 
-## 10/17/2025-Midterm Revisions 
+## 10/17/2025-Midterm Revisions
 
 (4C): The R~0~ for measles is estimated at 15 and 17 for rotavirus. Calculate beta for both diseases. {-3 pts}
 
@@ -158,3 +158,26 @@ Reff=R~0~ \* S/N....S/N=1-0.8=0.2....15(0.2)=[3 if the Reff]{.underline}
 2015: 4/133=0.03; 2016:7/125=0.056; 2017:12/112=0.107; 2018:9/145=0.06; 2019:6/136=0.04
 
 [2015 had the lowest prevalence and 2017 had the highest percent of population affected.]{.underline}
+
+<hr>
+
+## 10/23/2025-Worksheet 4
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*](images/clipboard-1351626306.png)
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+    -   [Answer:]{.underline} Incorrect; MERS-CoV is not primarily maintained in humans. Humans are incidental hosts that become infected through close contact with dromedary camels. It is only transmitted to humans through spillover events.
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+    -   [Answer:]{.underline} Correct, Camels are the main reservoir for MERS-CoV
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+    -   [Answer:]{.underline} Correct; Humans infected with MERS-CoV typically are not able to spread it to other humans. Although there has been limited documentation of human-to-human transmission, the virus does not efficiently sustain in human populations
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+    -   [Answer:]{.underline} Incorrect; the case fatality rate is around 35%
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+    -   [Answer:]{.underline} Incorrect; the epidemic curve shows this is propagated outbreak. There has been continuous transmission overtime, but most likely from different sources. Some may be linked to healthcare associated settings and close contact, while others are animal to human transmission.
