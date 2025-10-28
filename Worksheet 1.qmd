@@ -181,3 +181,19 @@ Distribution of confirmed cases of MERS by place of infection and month of onset
     -   [Answer:]{.underline} Incorrect; the case fatality rate is around 35%
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
     -   [Answer:]{.underline} Incorrect; the epidemic curve shows this is propagated outbreak. There has been continuous transmission overtime, but most likely from different sources. Some may be linked to healthcare associated settings and close contact, while others are animal to human transmission.
+
+<hr>
+
+## 11/3/2025-Worksheet 5
+
+**Marburg Virus Outbreak, Rwanda 2024**
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units. ​
+
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+[Answer:]{.underline} Based on the Fenton and Pedersen framework the Marburg virus outbreak can be classified as a spillover event then leading into an emerging infectious disease. To begin with, the outbreak began as a spillover event. It was transmitted from bats to one person who visited a bat cave, the Marburg virus naturally lives within bat populations but typically does not spread into humans. Once the first person was infected the virus had to the opportunity to spread from person to person, therefore becoming a potential emerging infectious disease.
+
+2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+[Answer:]{.underline} In the community measures implemented to reduce the risk of transmission would be public education of where the virus originates from. So explaining to people that being around bats or in enclosed areas where bats live (ex: the cave from where the Rwanda outbreak began) poses as a serious risk of being infected with Marburg. Another measure could be surveillance of bat populations to track how the virus is spreading and if it appears in locations not seen before. For healthcare settings, since the virus can spread from person to person via secretions having proper quarantined areas for patients with possible infection is a very important measure. It is also important for healthcare workers to wear proper PPE to prevent infections of themselves and proper hygiene practices, such as handwashing and ensuring areas patients come in contact with are disinfected (bedding, gowns, ect.).
