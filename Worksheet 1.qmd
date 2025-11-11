@@ -197,3 +197,37 @@ The first person to become infected in the current Marburg virus outbreak in Rw
 2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
 [Answer:]{.underline} In the community measures implemented to reduce the risk of transmission would be public education of where the virus originates from. So explaining to people that being around bats or in enclosed areas where bats live (ex: the cave from where the Rwanda outbreak began) poses as a serious risk of being infected with Marburg. Another measure could be surveillance of bat populations to track how the virus is spreading and if it appears in locations not seen before. For healthcare settings, since the virus can spread from person to person via secretions having proper quarantined areas for patients with possible infection is a very important measure. It is also important for healthcare workers to wear proper PPE to prevent infections of themselves and proper hygiene practices, such as handwashing and ensuring areas patients come in contact with are disinfected (bedding, gowns, ect.).
+
+<hr>
+
+## 11/10/2025-Worksheet #6
+
+A new disease, *Vertico*, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+Data: Prevalence data for fish in 2 ponds: 0 indicates uninfected and 1 indicates infected fish.
+
+<https://github.com/anyadoc/audiseco/blob/main/pond1_trial.csv>
+
+<https://github.com/anyadoc/audiseco/blob/main/pond2_trial.csv>
+
+For each pond, report the following: Prevalence (%), 95% CI (%), Fisher’s exact test *p*-value, and Interpretation (Is the difference statistically significant?).
+
+**Pond 1:**
+
+![](images/clipboard-1559762459.png){fig-align="center"}
+
+1.  Prevalence: 30%
+2.  95% CI: 14%-53%
+
+**Pond 2:**
+
+![](images/clipboard-2694105833.png){fig-align="center"}
+
+1.  Prevalence: 6.7%
+2.  95% CI: 3%-30%
+
+**Pond 1 vs Pond 2 Prevalence using Fisher's exact test:**
+
+![](images/clipboard-917827692.png){fig-align="center"}
+
+Interpretation: From Fisher's exact test a p-value of 0.1987 is found. A p-value greater than 0.05 indicates the data from the two ponds is not statistically significant. The observed difference between the prevalence of *Vertico* in the two ponds (30% and 6.7%) is most likely due to random sampling variation of the fish rather than true differences in *Vertico* infection rates.
