@@ -253,3 +253,103 @@ Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the 
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 [**Answer:**]{.underline} Current evidence shows the primary natural reservoir of LayV is shrews, with around 27% percent of shrews surveillanced showing high viral RNA associated with the virus. Humans are most likely to become infected with LayV through direct or indirect contact with the infected shrews. Most cases of human infections have been in farmers or individuals with frequent animal exposure. These patients most likely became infected from the bodily fluids of the shrews around their crops (saliva, urine, blood, feces). In rare cases, domestic animals (goats and dogs) have been a possible link from wildlife to human cases, however these cases are very few in number and the testing of the domestic animals showed low seropositivity for the virus. LayV is considered a zoonotic spillover and not an EID due to having no sustained human to human transmission. Currently, cases have all be sporadic and associated with certain geographical locations (on farms/rural areas in China). There has been no epidemiological clusterings of the virus in humans, even when patients are in close contacts with other members of their family, further suggesting humans as dead-end hosts.
+
+<hr>
+
+## 11/19/2025-Worksheet #8
+
+Examination of raccoon roundworm (*Baylisascaris procyonis*), a nematode worm found in the course of necropsies of 61 raccoons collected in Missouri and Arkansas during 2013 and 2014.
+
+Data source: <https://github.com/anyadoc/audiseco/blob/main/WS7_data.csv>
+
+Some background on *B. procyonis*:
+
+-    Raccoon's are definitive hosts.
+
+-    Adult worms reside in the raccoon intestine where they lay eggs which pass out of the host in the feces. These eggs may then be transmitted to other raccoons or to non-raccoon hosts.
+
+-   In paratenic or accidental hosts (including humans), eggs hatch to larvae, and larval stages of the nematode migrate, and cause damage to nervous-system tissues, resulting in morbidity & mortality. See e.g.: <https://www.jstor.org/stable/pdf/3285578.pdf>
+
+-   As a risk to humans, wildlife, and domestic animals there is a need to better understand the ecology of this parasite
+
+The dataset is comprised of information collected on 61 raccoons, each of which was necropsied and the number of roundworms counted. For each host there is data on the date of capture, the region (North, Central and South), the sex (male, female) and the age (adult, young adult). The last column gives the number of worms found during necropsy. Zero (0) worms indicates the raccoon was not found to be infected. Note that the necropsy data is real.
+
+You have to analyze and summarize this data. Identify the patterns that emerge and use the available data to explain the patterns. Analyze this dataset to determine prevalence patterns and perform meaningful comparisons between different groups. For example, you can compare prevalence of *B. procyonis* between the three regions, between males and females in each region, between age classes in each region, etc. Please show your work, use Quantitative Parasitology for your calculations and comparisons. Provide confidence intervals for prevalence estimates. Finally, explain your analysis of this real-world data.
+
+1.  [Regional comparisons:]{.underline}
+
+Based upon region: Data sets–number of worms detected per region:
+
+<https://github.com/hunter-sheffield/WILD6200/blob/main/Central_worms.csv>
+
+<https://github.com/hunter-sheffield/WILD6200/blob/main/North_worms.csv>
+
+<https://github.com/hunter-sheffield/WILD6200/blob/main/South_worms.csv>
+
+Central–
+
+![N= 14 total raccoons examined ](images/clipboard-936761155.png)
+
+9 were infected
+
+Prevalence of *B. procyonis* is 64%; using Sterne's exact method with a 95% confidence level, the confidence intervals for prevalence ranged from 37% to 85%. Indicating true prevalence may vary due to the smaller sample size observed, however infection does appear to be relatively high in the Central region.
+
+North–
+
+![](images/clipboard-869290641.png)
+
+N= 49 raccoons examined
+
+14 were infected
+
+Prevalence of *B. procyonis* is 29%; using Sterne's exact method with a 95% confidence level, the confidence intervals for prevalence ranged from 17% to 43%. Infection does occur in this region but is notably lower than what is observed in the Central region. The narrower confidence interval is due to the large sample size from the North region.
+
+South–
+
+![N= 43 raccoons were examined ](images/clipboard-4019396605.png)
+
+27 were infected
+
+Prevalence of *B. procyonis* is 63%; using Sterne's exact method with a 95% confidence level, the confidence intervals for prevalence ranged from 48% to 76%. This indicates a relatively high level of infection of the raccoons in the Southern region.
+
+[Comparison of Prevalence Among Regions:]{.underline}
+
+To explore the variations in geographic location in *B. procynois* infection of raccoons, I compared the prevalence across the Central, North, and South regions by using Fisher's exact test. Prevalences differed significantly amongst the three regions. Fisher's exact test resulted in a p-value of 0.0016, well below 0.05. This indicates prevalence of the infection is not evenly distributed across the three regions. These findings suggests other ecological factors (for example raccoon population sizes) play a role in transmission and persistence of the parasitic infection.
+
+![](images/clipboard-418982423.png)
+
+2.  [Age Group Analysis:]{.underline}
+
+Data sets-number of worms for each age group (young adults and adults)
+
+<https://github.com/hunter-sheffield/WILD6200/blob/main/Adult_worms.csv>
+
+<https://github.com/hunter-sheffield/WILD6200/blob/main/YoungAdult_worms.csv>
+
+Adults:
+
+N= 69 adult raccoons were examined
+
+36 of those were observed to be infected
+
+![](images/clipboard-92650465.png)The prevalence of *B. procyonis* is 52% in adult raccoons examined at a confidence level of 95% with confidence intervals ranged from 40% to 64%.
+
+Young Adults:
+
+N= 37 young adult raccoons examined
+
+14 of those were observed to be infected
+
+![](images/clipboard-3747965880.png)
+
+The prevalence of *B. procyonis* is 34% with the same confidence level above and intervals ranging from 23% to 54%.
+
+[Comparison of Prevalence Among Regions:]{.underline}
+
+To explore the differences between adults and young adults infected by *B. procynois,* I compared the prevalence across the two groups using Fisher's exact test. Prevalence differed among the age groups, however no statistical significance was observed. Fisher's exact test resulted in a p-value of 0.2206. This indicates prevalence of the infection is most likely evenly distributed across the age groups.
+
+![](images/clipboard-2447802247.png)
+
+[**Overall Analysis of the Data:**]{.underline}
+
+From this analysis of *B. procyonis* infections of raccoons a few assumptions can be made. Firstly, regions showed a clear difference in infections, with the North having significantly less detected worms from the sampled raccoons than the Central or Southern region. This could be due to various ecological factors such as less environmental contamination with infective eggs (may not survive as well in the colder/dryer climates) or even raccoon behaviors (movements of groups of raccoons who are infected to areas with raccoons who are not). Age also showed a trend of higher cases in adult raccoons, however these results were not statistically significant. This could be due to the fact that adult raccoons were more abundant in the examination than young adult raccoons. It also could be assumed that since adults have lived longer, their chances of being infected were much higher. However, it is evident age does not play a large role in infection, across the spectrum *B. procyonis* is capable of infection no matter the age of the raccoon. To fully understand the true ecological drivers behind these patterns more studies would need ot be conducted.
