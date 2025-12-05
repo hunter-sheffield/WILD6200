@@ -264,9 +264,9 @@ Data source: <https://github.com/anyadoc/audiseco/blob/main/WS7_data.csv>
 
 Some background on *B. procyonis*:
 
--    Raccoon's are definitive hosts.
+-   Raccoon's are definitive hosts.
 
--    Adult worms reside in the raccoon intestine where they lay eggs which pass out of the host in the feces. These eggs may then be transmitted to other raccoons or to non-raccoon hosts.
+-   Adult worms reside in the raccoon intestine where they lay eggs which pass out of the host in the feces. These eggs may then be transmitted to other raccoons or to non-raccoon hosts.
 
 -   In paratenic or accidental hosts (including humans), eggs hatch to larvae, and larval stages of the nematode migrate, and cause damage to nervous-system tissues, resulting in morbidity & mortality. See e.g.: <https://www.jstor.org/stable/pdf/3285578.pdf>
 
@@ -288,7 +288,7 @@ Based upon region: Data sets–number of worms detected per region:
 
 Central–
 
-![N= 14 total raccoons examined ](images/clipboard-936761155.png)
+![N= 14 total raccoons examined](images/clipboard-936761155.png)
 
 9 were infected
 
@@ -306,7 +306,7 @@ Prevalence of *B. procyonis* is 29%; using Sterne's exact method with a 95% conf
 
 South–
 
-![N= 43 raccoons were examined ](images/clipboard-4019396605.png)
+![N= 43 raccoons were examined](images/clipboard-4019396605.png)
 
 27 were infected
 
@@ -396,3 +396,179 @@ From this analysis of *B. procyonis* infections of raccoons a few assumptions ca
     What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)?
 
     [**Answer**]{.underline}: Snake Fungal Disease is difficult to manage due to the nature of snakes. Typically snakes are fearful of human encounters and live in more discreet locations. This makes monitoring of snake populations challenging to understand the true prevalence of infection or detect early cases. Furthermore, clinical signs are variable and nonspecific, requiring special testing such as histopathology or qPCR which can be costly and not widely available for large scale surveillance mechanisms. The fungus has a very wide host range and can persist in the environment. This limits treating individuals and decreases the likelihood of eradication. Early detection, population management and conservation planning for affected snakes is greatly hindered by these factors.
+
+<hr>
+
+## 12/4/2025-Final Exam
+
+1\. True or False. If false, explain why the statement is incorrect
+
+a\. Per the community–epidemiology continuum proposed by Fenton and Pedersen (2005), a disease caused by a pathogen with high between-species transmission and no within–target species transmission will be termed a spillover.
+
+[**Answer(1a):**]{.underline} False, a pathogen with high between species transmission and no within target species transmission would be more closely identified as an apperant multi-host pathogen. Since the pathogen has a high chance of spreading between H1 and H2, but does not sustain within H2. An example of this would be rabies between domestic dogs and side-striped jackals in Africa. A spillover would be a disease with low in between species transmission.
+
+b\. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious. 
+
+[**Answer(1b):**]{.underline} False, a viral disease that requires a vector to be transmitted to host and does not have the ability to be spread directly between hosts would be infectious but not contagious. Such as ticks spreading lyme disease, for a host to be infected it must be spread from the tick vector but it can not be transmitted directly from one host to another.
+
+c\. The eggs of *Baylisascaris procyonis* can be transmitted to humans by direct contact immediately after excretion by an infected raccoon.
+
+[**Answer(1c):**]{.underline} False, *Baylisascaris procyonis* eggs can only be transmitted between 2-4 weeks after excretion by raccoons to humans or other animals. The eggs must embryonate in the environment, forming into a larvae, before they become infectious.
+
+d\. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production.
+
+[**Answer(1d):**]{.underline} True, but only if the cattle develops toxicosis from intake of large amounts of Epichloe coenophiala in the fescue grass. This fungus produces ergot alkaloids within the fescue plant that can cause fescue toxicosis leading to reduced feed intake, poor weight gain, and lower milk production. However, the presence of the fungus alone does not lead to this toxicosis, the toxins are the main driver. The toxin productions are increased by the fungus due to various environmental conditions (heat, drought stress, and plant maturity).
+
+e\. Northern cardinals are considered superspreaders species for West Nile virus. 
+
+[**Answer(1e):**]{.underline} False, northern cardinals are considered supersuppressors for WNV. They can get infected through feeding of vector mosquitoes, but the virus is not very effective of amplication within their blood, causing less viral loads within the cardinals ([Levine, 2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5094236/).
+
+2\. List the community-based interventions used for preventing dracunculiasis transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections?
+
+[**Answer(2):**]{.underline} There are several community based interventions used for preventing dracunculiasis transmission in endemic regions. Effective interventions targets all aspects of the Guinea worm life cycle to disrupt the transmission cycle. Guinea worms can begin their infectious cycle as L3 larvae in intermediate copepod hosts (water fleas). These larvae containing copepods are then ingested by humans in unfiltered water or by eating undercooked infected aquatic animals. So the most important community intervention strategy is to provide safe drinking water. This can been done in many ways such as protected wells to prevent consumption of stagnant water or providing filters such as LifeStraw which remove copepods containing L3 larvae, preventing direct ingestion of larvae. Along with this, proper food safety education methods can be used to teach people the dangers of eating raw or undercooked aquatic animals. Health education also plays a large role in prevention strategies, specifically exolaining the dangers of infected people from entering water sources. Dracunculiasis worms in infected individuals emerge from their hosts to release L1 larvae in the prescence of water. So preventing people who are infected emerging the blister caused by the fertilized female worm stops the discharge of larvae into the environment. Larvicide application to ponds and stagnant water sources can be used to kill copepods. Once the L1 larvae are released into the environment they are consumed by copepods. By using larvicide to kill the copepods/larvae, the parasite is prevented entirely from beginning its life cycle within the intermediate host. Since infection rates in other animals such as dogs have increased overtime further strategies have been implemented to stop the transmission cycle. When dogs are infected, owners are taught to tether the infected animal so that it will not seek to emerge the blisters in water, preventing the release of larvae. Along with this, it is important for owners to discourage dogs from consuming raw aquatic animals and potentially infected water. Altogether these intervention methods can block the life cycle of Guinea worm, preventing human and animal infections.
+
+3\. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD?
+
+[**Answer(3):**]{.underline} Like many wildlife diseases, wildlife agencies face many major obstacles in managment of CWD due to infected cervids being very difficult to detect. Infectious prions from the animals are shed for longer than 16 months during the incubation phase, without the cervids showing any signs of disease. This allows for prions to continously be silently transmitted into the environment. In the environment prions are not degraded quickly, persisting in the soil and organic matter for years making indirect transmission disruption and elimination of the disease even harder. There are also currently no vaccine or treatment methods or logistical ways to even implement them if they did exist. Further, hunting restrictions are also typically not accepted by many people. Since the virus can be spread through infected animal products (urine, saliva, feces) implementing strategies such as baiting and urine-based product bans could potentially be effective. However, very few of these managment and control strategies have been implemented or assessed. Overall due to the hardiness of prions and lack of community support, once CWD is detected in a population it has been well established furthering the difficulties of control long-term.
+
+4\. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with *Mycobacterium leprae*. During the follow-up period, monthly assessments documented the following counts of infected animals in the population:
+
+-    March 2025: 3 infected
+
+-   April 2025: 5 infected
+
+-   May 2025: 5 infected
+
+-    June 2025: 8 infected
+
+-   July 2025: 13 infected
+
+(No deaths, births, immigration, or recovery occurred during the study.)
+
+a\. Calculate the monthly incidence of *M. leprae* infection. Show your calculations and state the units.
+
+[**Answer(4a):**]{.underline} Incidence rate = \# of new cases/total population
+
+-   March: 3/60= 0.05 per armadillo-month
+
+-   April: 2/57= 0.035 per armadillo-month
+
+-   May: 0/52= 0 per armadillo-month
+
+-   June: 3/55= 0.055 per armadillo-month
+
+-   July: 5/52= 0.096 per armadillo-month
+
+b\. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units.
+
+[**Answer(4b):**]{.underline} Prevalence= total \# cases/total population
+
+Lowest prevalence was March, Highest prevalence was July. There was no prevalence change between April to May due to no new cases being detected.
+
+-   March: 3/60= 5%
+
+-   April: 5/60= 8.3%
+
+-   May: 5/60= 8.3%
+
+-   June: 8/60= 13.3%
+
+-   July: 13/60= 21.7%
+
+5\. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia. 
+
+a\. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers?
+
+[**Answer(5a):**]{.underline} *Francisella tularensis* subspecies Type B *holartica*
+
+b\. What are the different routes of transmission for this agent?
+
+[**Answer(5b):**]{.underline} Type B subspecies is associated with waterborne and aquatic transmission cycles. There are many different routes of transmission including ingestion of contaminated water from rivers, ponds or wetlands. The bacteria also has direct modes of transmission with contact of infected aquatic animals or their carcasses, and also through contamination of skin wounds. *F. tularensis* can also be vectorborne, where mosquitoes act as biological or mechanical vectors spreading between hosts. However, vector borne transmission is oftentimes of Type A rather than Type B.
+
+c\. Describe key features/characteristics of this pathogen in the context of human health/public health.
+
+[**Answer(5c):**]{.underline} *F. tularensis* subspecies Type B has a very low infectious dose (10-50 organisms), making it highly transmissible. Therefore, it has been classified as a potential bioterrorism pathogen that can cause a multitude of diseases (ulceroglandular, pneumonic, typhoidal). The pathogens wide host range and environmental persistence also makes it difficult for controlling spreads to human population. The bacteria can survive within many different hosts like mammals, birds, arthropods and other aquatic species. It is also a very hardy bacteria that can persist in water, mud, or animal carcasses for weeks to months.
+
+6\. Match the following
+
+a.  Fungal pathogen of conservation concern                  1. Powassan encephalitis
+
+b.  Avian Vacuolar Myelinopathy                            2. *Ophidiomyces ophiodiicola*
+
+c.  Tick-transmitted viral disease                          3. *Borrelia burgdorferi*
+
+d.  Foreign Animal Disease                                4. Aetokthonotoxin
+
+e.  Bell’s palsy, Bulls-eye rash                             5. *Pseudogymnoascus destructans* 6. African Swine Fever 
+
+[**Answer(6):**]{.underline} 1-C, 2-A, 3-E, 4-B, 5-A, 6-D
+
+-   Fungal pathogen of conservation concern = *Pseudogymnoascus & Ophidiomyces*
+
+-   Avian Vacuolar Myelinopathy = Aetokthonotoxin
+
+-   Tick-transmitted viral disease = Powassan encephalitis
+
+-   Foreign Animal Disease = African Swine Fever
+
+-    Bell’s palsy, Bulls-eye rash = *Borrelia burgdorferi*
+
+7\. Refer to the life cycle of blacklegged tick to answer 7a – 7d.
+
+![](images/clipboard-1513514619.png){fig-align="center" width="303"}
+
+a\. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are:  \_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_.
+
+b\. Preferred hosts of the larval stage of *Ixodes scapularis* are:  \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_. 
+
+c\. Lyme disease risk posed by host-seeking nymphs of *I. scapularis* is greatest during \_\_\_\_\_\_\_\_\_\_\_ (season/months) while Lyme disease risk posed by host-seeking adults is greatest during \_\_\_\_\_\_\_\_\_\_\_\_ (season/months).
+
+d\. The natural reservoir and competent hosts of *Borrelia burgdorferi* in North America: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. White-tailed deer are the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the Lyme disease system. 
+
+[**Answer(7a-d):**]{.underline} a-nymphs and adults; b-small mammals and birds; c-spring through mid summer (May-July), fall and early spring (October-November, March-April); d-white footed mice, reproductive hosts
+
+8\. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s whitetailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance.
+
+[**Answer(8):**]{.underline}
+
+9\. Place the following diseases in appropriate quadrants in the figure. Explain your choice of quadrants.
+
+![](images/clipboard-398381974.png){fig-align="center" width="321"}
+
+a\. SARS-CoV-2
+
+[**Answer(9a):**]{.underline} Case 4-Potential Emerging Infectious Disease; There is typically a low between species transmission of the virus. Once in humans, SARS-CoV-2 had very high transmission human to human (within species transmission).
+
+b\. Hantavirus Pulmonary Syndrome
+
+[**Answer:**]{.underline} Case 1-Spillover; Transmission of the disease requires high exposures of rodent feces, saliva, or urine. These events do not happen often and there has been no human to human transmission. Low between species transmission and low transmission within H2
+
+c\. Langya Henipavirus
+
+[**Answer:**]{.underline} Case 1-Spillover; Infection rates are due to repeated spillovers from shrews to humans, specifically near farms or rural areas. Transmission between humans is not sustained. Low transmission between species and low transmission within H2.
+
+d\. Brucellosis
+
+[**Answer:**]{.underline} Case 3-True multihost pathogen; High transmission between species, livestock into wildlife or humans, elk into bison. While human to human transmission is rather, the bacteria sustained in elk and transmitted to bison leads to intraspecies transmission (bison infect bison). Both within and between species transmission rates are high.
+
+e\. WNV
+
+[**Answer:**]{.underline} Case 1-Spillover; Mosquitoes blood feed on reservoir hosts, birds, who are infected and sometimes a human gets bit by mosquito with WNV. However, the virus doesn't sustain in humans, there is not enough viral loads. So humans are dead end hosts. Low between and within species transmission rates.
+
+10\. Anisakiasis is the disease caused by infection with the stomach worm *Anisakis simplex*. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers.
+
+![](images/clipboard-3820788296.png){fig-align="center" width="485"}
+
+[**Answer:**]{.underline}
+
+-   Definitive host: Marine mammals; L3 larval infected crustaceans are ingested by a marine mammals. Once in the marine mammal, the parasite can reach full maturation and release new eggs by feces of the mammal.
+
+-   Dead-end host: Humans; The parasite is not sustained in human populations. Humans are accidental host caused by ingestion of undercooked or raw seafish/cephalopods that are infected with L3 larvae. The parasite can't continue its life cycle (maturation and release eggs) any further once infecting a person.
+
+-   Paratenic host: Seafish and Cephalopds; Become infected by eating a crustacean that has ingested L3 larvae. As a paratenic host there is not development taking place, these hosts pass on the larvae to the next animal that eats them (marine mammals for maturation, accidental hosts-humans).
+
+-   Intermediate host: Crustaceans; Ingest L3 larvae once they hatch from the eggs. Marine mammals or seafish/cephalopods then eat the crustacean. The transmission to the next host is contributed by the crustacean. There may be some slight maturation of the parasite but not full sexual maturity.
+
+11\. All infected hosts are diseased. Comment using appropriate examples.
+
+[**Answer:**]{.underline} This statement is false, infection does not always mean a host is diseased. Disease is defined as the impairment of normal functions. In some cases, pathogens invade hosts and simply survive within them, not causing any issues to the hosts. There are many examples of this, asymptomatic hosts, subclinical infections (carriers), or tolerant relationships. West Nile Virus in crows for example is often times very deadly to them, however majority of humans when infected show no disease at all and remain asymptomatic. As a reservoir for rabies, Big Brown Bats test positive for lyssaviruses at usually high viral loads. However, they show no neurological symptoms or other signs of disease. They are infected but their infection does not progress to any sort of disease, Big Brown Bats are tolerant to the virus. In CWD, cervids go through an extensive period of being infected but remain asmyptomatic while shedding prions. These are just a few of many, many examples, pathogens are able to persist and spread through various hosts without appearing diseased. Although, disease falls along the continuum of absolute health, which declines naturally with age. So even though infection does not equal disease, there could underlying issues that an infection may cause in the development of disease. It is still incorrect to state, "all infected hosts are diseased", diseases are much more complex than host + pathogen = disease.
